@@ -6,7 +6,7 @@
     
     --menu-bg: #f7fafc;
     --menu-text: #4a5568;
-    --menu-hover: #ebf8ff;
+    --menu-hover: #989ea5;
     --menu-border: #e2e8f0;
     
     --header-bg: #bcc8d3;
@@ -150,7 +150,7 @@ body {
 
 .menu-main li a:hover {
     background-color: var(--menu-hover);
-    color: var(--primary);
+    color: #f7fafc;
 }
 
 .menu-main li a.active {
